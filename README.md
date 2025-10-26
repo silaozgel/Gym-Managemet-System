@@ -21,3 +21,7 @@ This project was developed to improve gym administration through basic automatio
 - **Python**
 - **OOP (Object-Oriented Programming)**
 - Data stored using basic Python structures (no database)
+
+## Author
+**Sıla Özgel**
+Computer Engineering Student
